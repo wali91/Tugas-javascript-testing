@@ -25,12 +25,27 @@ const a = 10;         // tidak boleh seperti ini
 
 2. Unit Testing 
 
-*TDD
+Unit Testing merupakan suatu proses pengujian terhadap komponen suatu komponen yang terkecil dari suatu sistem seperti function.
+Tujuannya agar setiap function berjalan sebagaimana mestinya dengan membandingkan ekspektasi dengan kenyataannya.
+
+* TDD (Test Driven Development)
+
 Ada beberapa proses didalam sistem pengembangan dengan Test Driven Development / (TDD)
 - buat skenario testing pada setiap komponen
 - development skenario komponen sampai lulus testing
 - menyusun semua komponen yang sudah di testing
 - menggabungkan semua yang sudah ditesting hingga sistem selesai
+
+* BDD (Behavior Driven Test)
+
+BDD adalah suatu metodologi dimana lebih mengutamakan pengharapan client daripada sistem
+
+Ada beberapa proses pada BDD
+- Skenario testing pada setiap behavior.
+- Memastikan sudah lulus pada behavior test.
+- Deployment.
+
+
 
 
 
