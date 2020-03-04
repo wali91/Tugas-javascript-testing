@@ -45,6 +45,29 @@ Ada beberapa proses pada BDD
 - Memastikan sudah lulus pada behavior test.
 - Deployment.
 
+macam-macam Tools diunakan untuk testing :
+
+- jest
+- Mocha
+- jasmine
+- Ava
+- Tape
+
+> jest 
+adalah Sebuah framework testing pada JavaScript yang mengedepankan kesederhanaan.
+untuk menggunakan jest kita harus menginstallnya terlebih dahulu :
+1. buat folder yang akan gunakan contoh : js-testing-challenge
+2. npm init -y 
+3. npm i --save-dev jest
+4. konfigurasi jest pada file package.json :
+   dengan menganti script dengan :
+     "scripts": {
+    "test": "jest"
+  },
+
+
+1. npm i --save-dev jest
+
 
 
 
