@@ -2,7 +2,7 @@
 
 1. Functional Programming Paradigm
 
-..* Functional Programming Paradigm adalah penulisan pada sebuah function yang menekankan pada komputasi didalam sebuah fungsi matematis dan menghindari perubahan data.
+* Functional Programming Paradigm adalah penulisan pada sebuah function yang menekankan pada komputasi didalam sebuah fungsi matematis dan menghindari perubahan data.
 
 ada beberapa yang harus diperhatikan didalam penulisan function:
 
@@ -12,9 +12,13 @@ ada beberapa yang harus diperhatikan didalam penulisan function:
 
 example :
 
-function sum(a, b) {
+function sum(a, b) 
+{
+
   return a + b;
+  
 }
+
 const a = 10;         // tidak boleh seperti ini  
 
 2. Unit Testing 
