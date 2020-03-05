@@ -61,10 +61,10 @@ untuk menggunakan jest kita harus menginstallnya terlebih dahulu :
 3. npm i --save-dev jest
 4. konfigurasi jest pada file package.json :
    dengan menganti script dengan :
+   
      "scripts": {
     "test": "jest"
   },
-
 
 1. npm i --save-dev jest
 
